@@ -1,0 +1,13 @@
+C:\Users\rosav\Documents\C#\StudyChain\bin\Debug\netcoreapp3.1\StudyChain.exe
+C:\Users\rosav\Documents\C#\StudyChain\bin\Debug\netcoreapp3.1\StudyChain.deps.json
+C:\Users\rosav\Documents\C#\StudyChain\bin\Debug\netcoreapp3.1\StudyChain.runtimeconfig.json
+C:\Users\rosav\Documents\C#\StudyChain\bin\Debug\netcoreapp3.1\StudyChain.runtimeconfig.dev.json
+C:\Users\rosav\Documents\C#\StudyChain\bin\Debug\netcoreapp3.1\StudyChain.dll
+C:\Users\rosav\Documents\C#\StudyChain\bin\Debug\netcoreapp3.1\StudyChain.pdb
+C:\Users\rosav\Documents\C#\StudyChain\obj\Debug\netcoreapp3.1\StudyChain.csprojAssemblyReference.cache
+C:\Users\rosav\Documents\C#\StudyChain\obj\Debug\netcoreapp3.1\StudyChain.AssemblyInfoInputs.cache
+C:\Users\rosav\Documents\C#\StudyChain\obj\Debug\netcoreapp3.1\StudyChain.AssemblyInfo.cs
+C:\Users\rosav\Documents\C#\StudyChain\obj\Debug\netcoreapp3.1\StudyChain.csproj.CoreCompileInputs.cache
+C:\Users\rosav\Documents\C#\StudyChain\obj\Debug\netcoreapp3.1\StudyChain.dll
+C:\Users\rosav\Documents\C#\StudyChain\obj\Debug\netcoreapp3.1\StudyChain.pdb
+C:\Users\rosav\Documents\C#\StudyChain\obj\Debug\netcoreapp3.1\StudyChain.genruntimeconfig.cache
